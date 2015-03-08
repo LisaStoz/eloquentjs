@@ -32,3 +32,14 @@ http://eloquentjavascript.net/04_data.html
   https://github.com/LisaStoz/eloquentjs/blob/master/chapter4/list.js
 - Deep comparison<br>
   https://github.com/LisaStoz/eloquentjs/blob/master/chapter4/deep-comparison.js
+
+## Chapter 5 - Higher-Order Functions
+
+- Flattening<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter5/flattening.js
+- Mother-child age difference<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter5/mother-child-difference.js
+- Historical life expectancy<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter5/life-expectancy.js
+- Every and then some<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter5/every-some.js
