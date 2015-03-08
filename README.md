@@ -13,15 +13,22 @@ http://eloquentjavascript.net/02_program_structure.html
 
 http://eloquentjavascript.net/03_functions.html
 
-- Minimum
-- Recursion
-- Bean counting
+- Minimum<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter3/minimum.js
+- Recursion<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter3/recursion.js
+- Bean counting<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter3/bean-counting.js
 
 ## Chapter 4 - Data Structures: Objects and Arrays
 
 http://eloquentjavascript.net/04_data.html
 
-- The sum of a range
-- Reversing an array
-- A list
-- Deep comparison
+- The sum of a range<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter4/sum-of-range.js
+- Reversing an array<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter4/reversing-array.js
+- A list<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter4/list.js
+- Deep comparison<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter4/deep-comparison.js
