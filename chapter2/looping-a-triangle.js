@@ -8,7 +8,7 @@ do {
 } while (line1.length < 7);
 
 // 2. with for loop
-for (line2="#";line2.length <= 7; line2+= "#") {
+for (var line2="#";line2.length <= 7; line2+= "#") {
   console.log(line2);
 }
 
