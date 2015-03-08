@@ -8,3 +8,7 @@ http://eloquentjavascript.net/02_program_structure.html
   https://github.com/LisaStoz/eloquentjs/blob/master/chapter2/fizzbuzz.js
 - Chess Board<br>
   https://github.com/LisaStoz/eloquentjs/blob/master/chapter2/chess-board.js
+
+## Chapter 3 - Functions
+
+http://eloquentjavascript.net/03_functions.html
