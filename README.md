@@ -35,6 +35,8 @@ http://eloquentjavascript.net/04_data.html
 
 ## Chapter 5 - Higher-Order Functions
 
+http://eloquentjavascript.net/05_higher_order.html
+
 - Flattening<br>
   https://github.com/LisaStoz/eloquentjs/blob/master/chapter5/flattening.js
 - Mother-child age difference<br>
@@ -43,3 +45,14 @@ http://eloquentjavascript.net/04_data.html
   https://github.com/LisaStoz/eloquentjs/blob/master/chapter5/life-expectancy.js
 - Every and then some<br>
   https://github.com/LisaStoz/eloquentjs/blob/master/chapter5/every-some.js
+
+## Chapter 6 - The Secret Life of Objects
+
+http://eloquentjavascript.net/06_object.html
+
+- A vector type<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter6/vector.js
+- Another cell<br>
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter6/another-cell.js
+- Sequence interface<br>  
+  https://github.com/LisaStoz/eloquentjs/blob/master/chapter6/sequence-interface.js
