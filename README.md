@@ -12,3 +12,16 @@ http://eloquentjavascript.net/02_program_structure.html
 ## Chapter 3 - Functions
 
 http://eloquentjavascript.net/03_functions.html
+
+- Minimum
+- Recursion
+- Bean counting
+
+## Chapter 4 - Data Structures: Objects and Arrays
+
+http://eloquentjavascript.net/04_data.html
+
+- The sum of a range
+- Reversing an array
+- A list
+- Deep comparison
